@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c319787730bd4d2b9d505ded4ff752ea/artifacts
+deleted_time: 1708684998223
+end_time: 1708684969997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c319787730bd4d2b9d505ded4ff752ea
+run_name: sassy-owl-278
+run_uuid: c319787730bd4d2b9d505ded4ff752ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684969901
+status: 3
+tags: []
+user_id: psrivas

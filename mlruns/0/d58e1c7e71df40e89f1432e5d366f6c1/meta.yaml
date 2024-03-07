@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d58e1c7e71df40e89f1432e5d366f6c1/artifacts
+deleted_time: 1708684998314
+end_time: 1708684921013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d58e1c7e71df40e89f1432e5d366f6c1
+run_name: rogue-hawk-268
+run_uuid: d58e1c7e71df40e89f1432e5d366f6c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684920848
+status: 3
+tags: []
+user_id: psrivas

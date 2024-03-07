@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2fa748c4c8ea425ead0cc1efae3f01b9/artifacts
+deleted_time: 1708684998193
+end_time: 1708684970117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2fa748c4c8ea425ead0cc1efae3f01b9
+run_name: bedecked-crow-66
+run_uuid: 2fa748c4c8ea425ead0cc1efae3f01b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684970020
+status: 3
+tags: []
+user_id: psrivas

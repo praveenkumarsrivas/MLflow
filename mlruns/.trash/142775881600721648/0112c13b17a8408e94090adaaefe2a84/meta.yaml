@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/psrivas/OneDrive%20-%20RadiSys%20Corporation/Documents/MLflow/mlruns/142775881600721648/0112c13b17a8408e94090adaaefe2a84/artifacts
+deleted_time: 1708687643710
+end_time: 1708686065175
+entry_point_name: ''
+experiment_id: '142775881600721648'
+lifecycle_stage: deleted
+run_id: 0112c13b17a8408e94090adaaefe2a84
+run_name: beautiful-snail-739
+run_uuid: 0112c13b17a8408e94090adaaefe2a84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708686064809
+status: 3
+tags: []
+user_id: psrivas

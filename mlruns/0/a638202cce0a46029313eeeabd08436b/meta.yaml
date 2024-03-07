@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a638202cce0a46029313eeeabd08436b/artifacts
+deleted_time: 1708684998373
+end_time: 1708684899595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a638202cce0a46029313eeeabd08436b
+run_name: respected-panda-275
+run_uuid: a638202cce0a46029313eeeabd08436b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684899493
+status: 3
+tags: []
+user_id: psrivas

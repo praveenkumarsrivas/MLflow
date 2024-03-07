@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/psrivas/OneDrive%20-%20RadiSys%20Corporation/Documents/MLflow/mlruns/142775881600721648/05138d044f5a4da483b6b4999afaca26/artifacts
+deleted_time: 1708687643732
+end_time: 1708685909467
+entry_point_name: ''
+experiment_id: '142775881600721648'
+lifecycle_stage: deleted
+run_id: 05138d044f5a4da483b6b4999afaca26
+run_name: bedecked-deer-196
+run_uuid: 05138d044f5a4da483b6b4999afaca26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708685908911
+status: 3
+tags: []
+user_id: psrivas

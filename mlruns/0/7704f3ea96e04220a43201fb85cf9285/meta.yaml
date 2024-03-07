@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7704f3ea96e04220a43201fb85cf9285/artifacts
+deleted_time: 1708684998385
+end_time: 1708684887589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7704f3ea96e04220a43201fb85cf9285
+run_name: thundering-slug-944
+run_uuid: 7704f3ea96e04220a43201fb85cf9285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684887476
+status: 3
+tags: []
+user_id: psrivas

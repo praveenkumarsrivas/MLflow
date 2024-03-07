@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/psrivas/OneDrive%20-%20RadiSys%20Corporation/Documents/MLflow/mlruns/296919399863335561/cbc205dc12874b48b1eb52a369ece9ff/artifacts
+deleted_time: 1708687643702
+end_time: 1708686065305
+entry_point_name: ''
+experiment_id: '296919399863335561'
+lifecycle_stage: deleted
+run_id: cbc205dc12874b48b1eb52a369ece9ff
+run_name: unleashed-trout-112
+run_uuid: cbc205dc12874b48b1eb52a369ece9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708686065216
+status: 3
+tags: []
+user_id: psrivas

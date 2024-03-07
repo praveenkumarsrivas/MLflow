@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c800861fe01449f6b919fa6f9d24d412/artifacts
+deleted_time: 1708684998377
+end_time: 1708684899725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c800861fe01449f6b919fa6f9d24d412
+run_name: shivering-dog-281
+run_uuid: c800861fe01449f6b919fa6f9d24d412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684899620
+status: 3
+tags: []
+user_id: psrivas

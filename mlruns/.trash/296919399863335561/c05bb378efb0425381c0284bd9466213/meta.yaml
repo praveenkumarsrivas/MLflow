@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/psrivas/OneDrive%20-%20RadiSys%20Corporation/Documents/MLflow/mlruns/296919399863335561/c05bb378efb0425381c0284bd9466213/artifacts
+deleted_time: 1708687643714
+end_time: 1708685956971
+entry_point_name: ''
+experiment_id: '296919399863335561'
+lifecycle_stage: deleted
+run_id: c05bb378efb0425381c0284bd9466213
+run_name: flawless-cat-136
+run_uuid: c05bb378efb0425381c0284bd9466213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708685956797
+status: 3
+tags: []
+user_id: psrivas

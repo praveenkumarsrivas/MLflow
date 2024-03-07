@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b7d182f2708c42cd9e4663a13d236616/artifacts
+deleted_time: 1708684998322
+end_time: 1708684920804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b7d182f2708c42cd9e4663a13d236616
+run_name: dazzling-goat-440
+run_uuid: b7d182f2708c42cd9e4663a13d236616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684920649
+status: 3
+tags: []
+user_id: psrivas

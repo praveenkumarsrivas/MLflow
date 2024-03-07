@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/468d035b24d948bc8bb95a3ac252e251/artifacts
+deleted_time: 1708687643751
+end_time: 1708685012632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 468d035b24d948bc8bb95a3ac252e251
+run_name: agreeable-jay-718
+run_uuid: 468d035b24d948bc8bb95a3ac252e251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708685012511
+status: 3
+tags: []
+user_id: psrivas
