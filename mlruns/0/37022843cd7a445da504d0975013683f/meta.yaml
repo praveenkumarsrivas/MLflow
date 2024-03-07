@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/37022843cd7a445da504d0975013683f/artifacts
+deleted_time: 1708687643754
+end_time: 1708685012785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 37022843cd7a445da504d0975013683f
+run_name: exultant-swan-666
+run_uuid: 37022843cd7a445da504d0975013683f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708685012655
+status: 3
+tags: []
+user_id: psrivas

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5c5d323ace9b4529b6b3b9d28bc2377a/artifacts
+deleted_time: 1708687643736
+end_time: 1708685623909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5c5d323ace9b4529b6b3b9d28bc2377a
+run_name: silent-seal-132
+run_uuid: 5c5d323ace9b4529b6b3b9d28bc2377a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708685623661
+status: 3
+tags: []
+user_id: psrivas

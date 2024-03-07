@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f4fd0a43ddee48069bfe87969fc89adb/artifacts
+deleted_time: 1708684998271
+end_time: 1708684964378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f4fd0a43ddee48069bfe87969fc89adb
+run_name: clumsy-grub-948
+run_uuid: f4fd0a43ddee48069bfe87969fc89adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684964279
+status: 3
+tags: []
+user_id: psrivas

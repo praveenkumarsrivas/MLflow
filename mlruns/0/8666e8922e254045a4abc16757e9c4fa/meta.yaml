@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8666e8922e254045a4abc16757e9c4fa/artifacts
+deleted_time: 1708684998273
+end_time: 1708684928996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8666e8922e254045a4abc16757e9c4fa
+run_name: redolent-calf-784
+run_uuid: 8666e8922e254045a4abc16757e9c4fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684928877
+status: 3
+tags: []
+user_id: psrivas

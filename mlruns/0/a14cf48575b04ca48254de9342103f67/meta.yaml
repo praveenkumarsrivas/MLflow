@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a14cf48575b04ca48254de9342103f67/artifacts
+deleted_time: 1708684998282
+end_time: 1708684928849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a14cf48575b04ca48254de9342103f67
+run_name: gentle-owl-591
+run_uuid: a14cf48575b04ca48254de9342103f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708684928726
+status: 3
+tags: []
+user_id: psrivas

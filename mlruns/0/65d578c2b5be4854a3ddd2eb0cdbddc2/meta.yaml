@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/65d578c2b5be4854a3ddd2eb0cdbddc2/artifacts
+deleted_time: 1708687643733
+end_time: 1708685624082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 65d578c2b5be4854a3ddd2eb0cdbddc2
+run_name: likeable-dog-620
+run_uuid: 65d578c2b5be4854a3ddd2eb0cdbddc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708685623959
+status: 3
+tags: []
+user_id: psrivas
